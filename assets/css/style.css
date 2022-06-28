@@ -16,21 +16,21 @@ body {
 	overflow-x: hidden;
 }
 #body{
-	background: url("/assets/img/png/HTB1uKt6wXGWBuNjy0Fbq6z4sXXaD.png");
+	background: url("../img/png/HTB1uKt6wXGWBuNjy0Fbq6z4sXXaD.png");
 	background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 	transition: 1.5s;
 }
 #body.bg2{
-	background: url("/assets/img/png/fon2.png");
+	background: url("../img/png/fon2.png");
 	background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 	transition: 1.5s;
 }
 #body.bg3{
-	background: url("/assets/img/png/fon3.png");
+	background: url("../img/png/fon3.png");
 	background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -228,7 +228,7 @@ body {
 	transition: 0.3s;
 	cursor: pointer;
 	border-radius: 5px;
-	background-image: url("/assets/img/svg/fullscreen-open.svg");
+	background-image: url("../img/svg/fullscreen-open.svg");
 	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
     -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
     box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
@@ -238,7 +238,7 @@ body {
 	font-weight: 700;
 }
 :-webkit-full-screen .fullscreen {
-	background-image: url("/assets/img/svg/fullscreen-exit.svg");
+	background-image: url("../img/svg/fullscreen-exit.svg");
 	-webkit-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
     -moz-box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
     box-shadow: 7px 7px 5px 0px rgba(50, 50, 50, 0.75);
@@ -346,7 +346,7 @@ body {
 	width: 120px;
 	height: 45px;
 	padding-left: 45px;
-	background-image: url("/assets/img/svg/github.svg");
+	background-image: url("../img/svg/github.svg");
 	background-size: 35px;
 	background-repeat: no-repeat;
 	background-position: left center;
@@ -365,7 +365,7 @@ body {
 	font-family: "Open Sans", sans-serif;
 	width: 86px;
 	height: 32px;
-	background-image: url("/assets/img/svg/rss.svg");
+	background-image: url("../img/svg/rss.svg");
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: left center;
